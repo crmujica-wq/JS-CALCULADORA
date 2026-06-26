@@ -5,14 +5,14 @@ Este repositorio contiene los ejercicios desarrollados para el módulo 3.
 ## Ejercicios creados (* , / , + , - )
 
 
-- Archivo principal: ` ejercicioModulo3.html`
+- Archivo principal: `index.html`
 - Script: `assets/js/script.js`
 - Descripción: solicita al usuario seleccionar que operación matemática básica quiere realizar, por medio de menú en lista.
 - Interacción: al hacer clic en el botón **Lanzar Calculadora**, se muestra un `prompt` para ingresar en el menú,soliciando los datos y luego un `alert` con el resultado./Se puede verificar en consola resultados y procedimeintos.
 
 ## Archivos del proyecto
 
-- `ejercicioModulo3.html`: página principal del ejercicio.
+- `index.html`: página principal del ejercicio.
 - `assets/js/script.js`: lógica de cálculo y validación de la entrada.
 
 ## Evidencias
