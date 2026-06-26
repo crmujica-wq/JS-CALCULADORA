@@ -30,7 +30,7 @@ function dividir(a, b) {
 
 // Solicita y valida la entrada numérica del usuario 
 function pedirNumero(mensaje) {
-    let numero;
+    let numero ;
     let esValido = false;
 
     while (!esValido) {
